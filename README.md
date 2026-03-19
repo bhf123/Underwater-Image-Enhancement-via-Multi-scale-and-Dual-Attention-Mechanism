@@ -22,4 +22,4 @@ $ python test.py --checkpoint CHECKPOINTS_PATH
 
 ## Contact
 
-If you have any questions, please contact Shiben Liu at 13783428056@163.com.
+If you have any questions, please contact at 13783428056@163.com.
